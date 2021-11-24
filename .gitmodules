@@ -2,3 +2,7 @@
 	path = Mercari-Price-Suggestion-Kaggle-competition
 	url = https://github.com/shwetasahu1996/Mercari-Price-Suggestion-Kaggle-competition.git
 	branch = practise
+[submodule "new_try"]
+	path = new_try
+	url = https://github.com/shwetasahu1996/Mercari-Price-Suggestion-Kaggle-competition.git
+	branch = practise
